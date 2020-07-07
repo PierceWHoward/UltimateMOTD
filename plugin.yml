@@ -1,0 +1,17 @@
+version: 1.0
+name: UltimateMOTD
+main: com.xpfire.ultimatemotd.Main
+
+author: XPfirePlayz
+description: The Ultimate MOTD Plugin
+
+commands:
+  motd:
+    aliases: [MOTD]
+    description: Changes the MOTD.
+  setmaxplayers:
+    aliases: [smp, setmax]
+    description: Sets the Max Player Count.
+  bossbar:
+    aliases: []
+    description: Changes the Boss Bar Message.

@@ -1,0 +1,9 @@
+maxPlayers: 20
+FirstMOTD: 'FirstMOTD'
+SecondMOTD: 'SecondMOTD'
+
+FirstBossBar: 'FirstBossBar'
+SecondBossBar: 'SecondBossBar'
+ThirdBossBar: 'ThirdBossBar'
+FourthBossBar: 'FourthBossBar'
+FifthBossBar: 'FifthBossBar'
